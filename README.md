@@ -24,7 +24,7 @@ Bu uygulama aşağıdaki teknolojileri kullanır:
 
 Uygulamayı yerel geliştirme ortamınıza kurmak için aşağıdaki adımları izleyebilirsiniz:
 
-1. Bu depoyu klonlayın: `git clone <https://github.com/Adl1coder/KisilerUygulamasiMvvm>`
+1. Bu depoyu klonlayın: `git clone < https://github.com/Adl1coder/KisilerUygulamasiMvvm >`
 
 2. Android Studio'yu açın.
 
