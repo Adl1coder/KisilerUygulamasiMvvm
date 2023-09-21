@@ -42,6 +42,8 @@ Bu uygulama, kişi verilerini bir API'den alır ve günceller. API bağlantısı
 
 2. Retrofit tarafından sağlanan yönergeleri takip ederek API isteklerini yapılandırın.
 
+3. (http://kasimadalan.pe.hu/) kullanıldı.
+
 
 ## Katkıda Bulunma
 
