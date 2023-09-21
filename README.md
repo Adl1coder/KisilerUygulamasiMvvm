@@ -57,8 +57,6 @@ Eğer bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları i
 
 4. İnceleme sürecini bekleyin ve isteğiniz onaylandığında birleştirme (merge) işlemi gerçekleşecektir.
 
-## Lisans
 
-Bu uygulama MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LİSANS](/LICENSE) dosyasına başvurun.
 
 
